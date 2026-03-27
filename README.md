@@ -27,7 +27,7 @@ A simple RESTful Blog API built with Flask that supports full CRUD operations (C
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/python-blog-api.git
+git clone https://github.com/mi8taw/blog.git
 cd python-blog-api
 ```
 
